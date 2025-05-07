@@ -1,0 +1,23 @@
+{
+  "name": "ze.js",
+  "version": "1.0.0",
+  "description": "zen embeded javascript",
+  "keywords": [
+    "embed js"
+  ],
+  "homepage": "https://github.com/z3phyrl/ze.js#readme",
+  "bugs": {
+    "url": "https://github.com/z3phyrl/ze.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z3phyrl/ze.js.git"
+  },
+  "license": "Apache-2.0",
+  "author": "z3phyrl",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
