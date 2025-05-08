@@ -71,7 +71,7 @@ to include other html just use exec\_file.
     <&>
         for (let i = 0; i < 5; i++) {
             join(exec_file("a.html", { index: i }));
-            // join(str) in a built-in function. it just join strings.
+            // join(str) is a built-in function. it just join strings.
             // it automatically return joined string when you don't return anything
 
             // there is also json(obj).
